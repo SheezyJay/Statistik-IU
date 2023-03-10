@@ -1,0 +1,20 @@
+# Alle Funktionen wurden für die Ausgabe in der Konsole "optimiert" --> Es werden keine neuen Zieldateien dafür erstellt
+
+
+Schritt 0:
+Um dieses Projekt auszuführen, muss Python 3 auf Ihrem Computer installiert sein.
+
+Schritt 1:
+    
+    - pip install --upgrade pip
+
+Schritt 2:
+
+    - pip install -r requirements.txt
+
+Schritt 3: 
+    
+    - In den Ordner zu main.py navigieren:
+    - python main.py
+        wenn mehrere Interpreter:
+            - python3 main.py
